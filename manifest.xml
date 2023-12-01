@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_plugin_manifest_file>
+    <SdkVersion major="2" minor="0"  release="0" />
+    <Plugin name="ClangFormat">
+        <Value title="ClangFormatPlugin" />
+        <Value version="0.1" />
+        <Value description="Automatically apply clang-format to your source code." />
+        <Value author="T." />
+        <Value authorEmail="" />
+        <Value authorWebsite="" />
+        <Value thanksTo="" />
+        <Value license="GPL" />
+    </Plugin>
+</CodeBlocks_plugin_manifest_file>
